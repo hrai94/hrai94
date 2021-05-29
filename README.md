@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @hrai94
+- 👀 I’m interested in learning data science and building apps
+- 🌱 I’m currently learning python
